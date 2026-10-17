@@ -9,6 +9,6 @@ resource "azurerm_resource_group" "rg" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "laxman-rg"
+  name     = "bharat-rg"
   location = "central india"
 }
